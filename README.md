@@ -1,4 +1,3 @@
-# chatweb3
 # Real-Time Chat Application
 # Overview
 This project is a Real-Time Chat Application built using HTML, CSS, JavaScript, and Firebase. The application allows users to communicate in real-time, providing a seamless and interactive messaging experience.
